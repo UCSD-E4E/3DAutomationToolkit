@@ -1,0 +1,2 @@
+# Ignore the backup caches, keep them locally instead
+backup/
